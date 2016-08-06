@@ -1,0 +1,32 @@
+_repo: The-Love-Affairs-of-Great-Musicians-Volume-1_10957
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Biography'
+- !lcc 'ML'
+- GITenberg
+tableOfContents: 'The overture -- The ancients -- The men of Flanders -- Orland di
+  Lassus and his Regina -- Henry and Frances Purcell -- The strange adventures of
+  Stradella -- Giovanni and Lucrezia Palestrina -- Bach, the patriarch -- Papa and
+  Mamma Haydn -- The magnificent bachelor -- Gluck the domestic, Rousseau the confessor,
+  and the amiable Piccinni -- A few tunesters of france and italy: Peri, Monteverde,
+  et al -- Mozart -- Beethoven: the great bumblebee -- Von Weber: the rake reformed
+  -- The felicities of Mendelssohn -- The nocturnes of Chopin.'
+title: The Love Affairs of Great Musicians, Volume 1
+url: http://www.gutenberg.org/ebooks/10957
